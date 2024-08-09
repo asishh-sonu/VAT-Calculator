@@ -16,7 +16,7 @@ Calculates the Value Added Tax (VAT) on products or services
 
 
 
-- Start Calculating!
+- Start Calculating! Happy Coding
 
 ## Screenshot
 
