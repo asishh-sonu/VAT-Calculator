@@ -24,4 +24,5 @@ Calculates the Value Added Tax (VAT) on products or services
 
 ## Live Demo
 
-<img src="./Screenshots/demo.gif" />   Happy Coding
+<img src="./Screenshots/demo.gif" />   
+Happy Coding
