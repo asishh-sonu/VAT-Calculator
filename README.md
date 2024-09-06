@@ -27,6 +27,5 @@ Calculates the Value Added Tax (VAT) on products or services
 <img src="./Screenshots/demo.gif" />   
 Happy Coding
 we will continuew tomorrow 
-lets gooo
-k
+lets g
 
